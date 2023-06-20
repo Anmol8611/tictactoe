@@ -15,3 +15,11 @@
 .box:hover {
     box-shadow: 0px 0px 15px #888;
 }
+
+.x {
+    color: var(--xblue);
+}
+
+.o {
+    color: var(--oorange);
+}
